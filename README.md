@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jacqueline
+# Hi 👋🏽, I'm Jacqueline
 
 
 - 🎓 Currently pursuing certifications in **Big Data** and **Machine Learning**.
