@@ -1,8 +1,8 @@
 # Hi 👋🏽, I'm Jacqueline
 
 
-- 🎓 Currently pursuing certifications in **Big Data** and **Machine Learning**.
-- 🧠 Actively learning about **Data Analysis**, **Data Wrangling**, and **Machine Learning**.
+ 🎓 Currently pursuing certifications in **Big Data** and **Machine Learning**.
+ 🧠 Actively learning about **Data Analysis**, **Data Wrangling**, and **Machine Learning**.
 
 
 ---
