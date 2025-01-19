@@ -29,7 +29,8 @@
 | Specialization                                 | Course Title                                      | Status         | Certificate Link                                                                                                |
 |-----------------------------------------------|--------------------------------------------------|----------------|-------------------------------------------------------------------------------------------------------------------|
 | IBM Data Science Professional Certificate     | Python for Data Science, AI & Development        | **Completed**   | [View Certificate](https://coursera.org/share/f76ba22c830d5f3b11be5930716b783c)                                  |
-| IBM Data Science Professional Certificate     | Databases and SQL for Data Science with Python   | **Completed**   | [View Certificate](https://www.coursera.org/account/accomplishments/records/97ZVSY92CP6T)                        |
+| IBM Data Science Professional Certificate     | Databases and SQL for Data Science with Python   | **Completed**   | [View Certificate](https://www.coursera.org/account/accomplishments/records/97ZVSY92CP6T)                        | 
+| IBM Data Science Professional Certificate     | Data Analysis with Python                        | **Completed**   | [View Certificate](https://www.coursera.org/account/accomplishments/records/97ZVSY92CP6T)                        | 
 | IBM Big Data Professional Certificate         |                                                  | **In Progress** |                                                                                                                  |
 | Machine Learning by Andrew Ng                 |                                                  | **Planned**     |                                                                                                                  |
 
